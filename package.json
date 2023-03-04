@@ -1,0 +1,15 @@
+{
+  "name": "ts-basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsc --watch --preserveWatchOutput",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "typescript": "^4.3.2"
+  },
+  "author": "",
+  "license": "ISC"
+}
